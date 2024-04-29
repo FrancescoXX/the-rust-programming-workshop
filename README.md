@@ -1,6 +1,6 @@
-# the-rust-programming-workshop
+# The rust Programming Workshop
 
-This is a compendium of code examples, exercises, and notes for the upcoming book "The Rust Programming Workshop"
+This repository is a compendium of code examples, exercises, and notes for the upcoming book "The Rust Programming Workshop"
 
 Stay tuned 👀
 
